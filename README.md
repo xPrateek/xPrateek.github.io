@@ -1,2 +1,2 @@
-# prateekmaru.github.io
+# GitHub username URL
 https://xprateek.github.io
