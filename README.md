@@ -1,2 +1,2 @@
 # prateekmaru.github.io
-https://prateekmaru.github.io
+https://xprateek.github.io
